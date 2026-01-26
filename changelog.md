@@ -1,0 +1,12 @@
+# Changelog 26/01/2026
+- Prepend soong ns to lib_driver_cmd_qcwcn
+- Enable support for kernel idle timer
+- Restrict apps access to /proc/net/unix
+- Switch to ssg i/o scheduler
+- Add Diag framework matrix vintf configs
+- Drop duplicate genfs_contexts entries
+- Switch to SwitchPreferenceCompat
+- Apply Expressive theme
+- Defer applying divider
+- Cleanup unnused configuration
+- Update some soong config variables to bool type
