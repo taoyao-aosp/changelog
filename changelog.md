@@ -1,3 +1,10 @@
+# Changelog 06/02/2026
+- Revert "sm8350-common: tetheroffload: Version 1.1"
+- Shim libcodec2_hidl with libbase_shim
+- Add GraphicBufferSource shim for libcodec2_hidl
+- launcher3: Reduce blur radius
+- Build missing libcamera_metadata.vendor
+
 # Changelog 26/01/2026
 - Prepend soong ns to lib_driver_cmd_qcwcn
 - Enable support for kernel idle timer
