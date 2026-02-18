@@ -1,3 +1,8 @@
+# Changelog 18/02/2026
+- Disable high performance transitions
+- Specify ambient color temperature sensor
+- Fix-up audio io policy voip_rx flags
+
 # Changelog 06/02/2026
 - Revert "sm8350-common: tetheroffload: Version 1.1"
 - Shim libcodec2_hidl with libbase_shim
