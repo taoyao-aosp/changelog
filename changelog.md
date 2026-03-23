@@ -1,3 +1,10 @@
+# Changelog 23/03/2026
+- Fix IMS and force enable telephony toggles
+- Fix battery and USB OTG detection in recovery mode
+- Unmount /firmware after fastbootd starts
+- Disable high performance transitions
+- FrameworkOverlay: Specify ambient color temperature sensor
+
 # Changelog 18/02/2026
 - Disable high performance transitions
 - Specify ambient color temperature sensor
