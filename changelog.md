@@ -1,3 +1,14 @@
+# Changelog 03/04/2026
+- Bluetooth: Changing vendor ID as QTI for Device ID Profile
+- audio: audio: Sync with audio_policy_configuration.xml
+- Remove references to a2dp module
+- audio: Fix disabling A2DP offload
+- audio: Switch to AOSP BT stack
+- Removing NfcOverlay
+- audio: Increase max volume
+- audio: Rework/cleanup on volumes
+- audio: Import OOS modified volumes
+
 # Changelog 23/03/2026
 - Fix IMS and force enable telephony toggles
 - Fix battery and USB OTG detection in recovery mode
