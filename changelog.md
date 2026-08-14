@@ -1,3 +1,21 @@
+# Changelog 14/08/2026
+- Update blobs from V816.0.34.0.ULIMIXM
+- Update WFD system blobs from dada OS2.0.217.0.WOCMIXM
+- Dropped Dolby Atmos blobs properties
+- Include Dolby Atmos
+- Sync with Spatial Audio
+- Move c2_manifest_vendor.xml to device
+- Import Dolby Media Codec
+- Sync kernel to latest Source
+- Add missing camera resource amd patch camera blobs
+- Migrate to AIDL camera provider
+- Build dynamic sensors hal
+- Allow the sensor HAL to access dynamic sensor properties.
+- Allow the sensor HAL to access raw HID devices.
+- Shim libmisight with libjsoncpp_shim
+- Switch to OSS libnotifyaudiohal
+- Shim _ZN4Json5ValueC1Ex for libmisight
+
 # Changelog 03/04/2026
 - Bluetooth: Changing vendor ID as QTI for Device ID Profile
 - audio: audio: Sync with audio_policy_configuration.xml
